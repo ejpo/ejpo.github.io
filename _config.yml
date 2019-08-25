@@ -1,1 +1,14 @@
+title: Ethan O'Donnell
+description: CompSci Student, IT Infrastructure Engineer
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-cayman
+twitter_username: EJPOIO
+github_username: ejpo
+linkedin_username: ejpodonnell
+author: Ethan O'Donnell
+
+markdown: kramdown
+
+github:
+  is_project_page: false
