@@ -26,6 +26,6 @@ It is more of a learning project that anything, but hopefully others will find i
 
 ### SaucyBot - Simple Discord Ticketing bot
 
-SaucyBot is a bot I am writing to solve a whole in the Discord bot market for a very simple ticketing bot.
+SaucyBot is a bot I am writing to solve a hole in the Discord bot market for a very simple ticketing bot.
 It is designed to be used by teams/clans/organizations who manage Game Server's as a centralised ticketing system for their community.
 At the moment it is being backed by a database (MariaDB to begin with) but the plan is for version 0.2 to allow for flat-file esque storage of ticketing state to reduce the barrier of entry.
